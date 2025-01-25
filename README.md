@@ -1,10 +1,10 @@
-# hardware-recommendations-2024
 Good deals on hardware in 2024
 
 ## Laptops
 Lenovo X1 Carbon Gen 5/6 - Used eBay 200/250 CAD
 
-## Tablets
+## Tablets/Laptops
+Microsoft Surface Pro 3 - (linux / fydeos) - Used eBay 100 to 200 CAD. 
 Lenovo X1 Yoga - Gen 3/4 - Used eBay 200 to 400 eBay
 Pixelbook Gen 1 - (Can run linux or chromeos) i7 - Used eBay 200 to 300 CAD
 
