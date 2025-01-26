@@ -15,7 +15,7 @@ https://www.ebay.ca/itm/255946785779?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ss
 Pixelbook Gen 1 - (Can run linux or chromeos) i7 - Used eBay 200 to 300/350 CAD<br>
 https://www.ebay.ca/itm/402921059517<br>
 Nexus 7 2013<br>
-If you can find them cheap and do the flox mod with linageos 18 it's not so bad. You may be able to find one under 70 dollars.<br>
+If you can find them cheap and do the flox mod with lineageos 18 it's not so bad. You may be able to find one under 70 dollars.<br>
 
 ## Phones
 Pixel 6 (android 16) - Used eBay 200 CAD<br>
@@ -49,7 +49,7 @@ Coreboot (macosx)<br>
 Debian<br>
 Debian with Phosh installed for surface with surface-kernel.<br>
 Gentoo<br>
-LinageOS 22<br>
+LineageOS 22<br>
 Windows 11 free upgrade<br>
 FreeBSD<br>
 (all have modern software with modern browsers and security patches)
