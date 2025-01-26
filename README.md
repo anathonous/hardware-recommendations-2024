@@ -35,17 +35,18 @@ https://www.aliexpress.com/item/1005006193934712.html<br>
 <br>
 
 ## Headphones
-Buy headphones when they are on sale. 50 dollars off Pixel Buds A series (every once and awhile)
+Buy headphones when they are on sale. 50 dollars off Pixel Buds A series (every once and awhile)<br>
+https://www.aliexpress.com/item/1005008166146309.html<br>
 
 ### Software
 All can run latest up to date software. As of 2025.
 
-FydeOS
-Brunch ChromeOS
-Coreboot (macosx)
-Debian
-Debian with Phosh installed.
-Gentoo
-LinageOS 22
-Windows 11 free upgrade
+FydeOS<br>
+Brunch ChromeOS<br>
+Coreboot (macosx)<br>
+Debian<br>
+Debian with Phosh installed for surface with surface-kernel.<br>
+Gentoo<br>
+LinageOS 22<br>
+Windows 11 free upgrade<br>
 
