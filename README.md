@@ -17,7 +17,10 @@ https://www.ebay.ca/itm/402921059517<br>
 
 ## Phones
 Pixel 6 (android 16) - Used eBay 200 CAD<br>
+https://www.ebay.ca/itm/116050177618<br>
 Pixel 3/3a - Used eBay (Debian/Mobian) (LinageOS 22) 100 / 150 CAD<br>
+https://www.ebay.ca/itm/174910657878?var=474821086611<br>
+https://www.ebay.ca/itm/114328577576?var=414719430960<br>
 <br>
 Get cases on aliexpress<br>
 https://www.aliexpress.com/item/1005007234205192.html<br>
