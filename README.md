@@ -1,4 +1,4 @@
-Good deals on hardware in 2024
+Good deals on hardware in 2025
 
 ## Laptops
 Lenovo X1 Carbon Gen 5/6 - (can use windows,linux, chromeos/fydeos, macosx with coreboot, freebsd) Used eBay 200/250 CAD
